@@ -1,8 +1,11 @@
 # Covid19_Dashboard_India
 
 ## Team Members
-1. Penmetsa Shiva Padmaja (19pa1a1295)
-2. Potturi Sarvani (19pa1a12a5)
+1. Nanduri Reshmi Gayathri(19pa1a1285)
+2. Penmetsa Shiva Padmaja (19pa1a1295)
+3. Potturi Sarvani (19pa1a12a5)
+4. Sangineedi Sri Sesha Sai Chandrika
+5. Saraswathula Sri Jnanendhra Chalapathi
 
 ## Description
 This is a simple tableau dashboard about covid19 
